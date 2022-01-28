@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kotlin login with Api</string>
+    <string name="email">email</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_nclick_to_register">Don\'t have an Account?\nClick to Register</string>
+
+    <string name="password">password</string>
+    <string name="clicklogin">ClickLogin</string>
+</resources>
